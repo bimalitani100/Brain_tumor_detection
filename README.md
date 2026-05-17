@@ -97,6 +97,7 @@ The model includes:
 ---
 
 ## 🧪 Project Structure
+
 brain-tumor-detection/
 │
 ├── dataset/
